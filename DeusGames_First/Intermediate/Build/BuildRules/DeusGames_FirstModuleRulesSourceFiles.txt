@@ -1,0 +1,3 @@
+/Users/yahima/Documents/UE4_projects/DeusGames_First/Source/DeusGames_First/DeusGames_First.Build.cs
+/Users/yahima/Documents/UE4_projects/DeusGames_First/Source/DeusGames_First.Target.cs
+/Users/yahima/Documents/UE4_projects/DeusGames_First/Source/DeusGames_FirstEditor.Target.cs
